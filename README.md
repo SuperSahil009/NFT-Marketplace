@@ -13,3 +13,4 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+https://docs.google.com/document/d/1_pKdwswjZl4WAfaxhUctbmX9_5MmHTLkuoZK_yrBwi8/edit?usp=sharing
